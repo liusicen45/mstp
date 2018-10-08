@@ -1,0 +1,75 @@
+import Vue from 'vue'
+import '@/assets/css/font_qzecyukz0s'
+import '@/assets/css/icon'
+import {
+  Icon,
+  Container,
+  Header,
+  Main,
+  Footer,
+  Aside,
+  Button,
+  Select,
+  Menu,
+  Submenu,
+  MenuItem,
+  MenuItemGroup,
+  Breadcrumb,
+  BreadcrumbItem,
+  Form,
+  FormItem,
+  Input,
+  Col,
+  Row,
+  Checkbox,
+  Switch,
+  RadioGroup,
+  Radio,
+  Badge,
+  Popover,
+  Progress,
+  Tooltip,
+  Dropdown,
+  DropdownMenu,
+  DropdownItem,
+  Tag,
+  Carousel,
+  CarouselItem,
+  Table,
+  TableColumn
+} from 'element-ui'
+Vue.use(Icon)
+Vue.use(Container)
+Vue.use(Header)
+Vue.use(Main)
+Vue.use(Aside)
+Vue.use(Footer)
+Vue.use(Breadcrumb)
+Vue.use(BreadcrumbItem)
+Vue.use(Button)
+Vue.use(Checkbox)
+Vue.use(Select)
+Vue.use(Form)
+Vue.use(FormItem)
+Vue.use(Input)
+Vue.use(Col)
+Vue.use(Row)
+Vue.use(Switch)
+Vue.use(RadioGroup)
+Vue.use(Radio)
+Vue.use(Badge)
+Vue.use(Popover)
+Vue.use(Progress)
+Vue.use(Menu)
+Vue.use(Submenu)
+Vue.use(MenuItem)
+Vue.use(MenuItemGroup)
+Vue.use(Tooltip)
+Vue.use(Dropdown)
+Vue.use(DropdownMenu)
+Vue.use(DropdownItem)
+Vue.use(Tag)
+Vue.use(Carousel)
+Vue.use(CarouselItem)
+Vue.use(Table)
+Vue.use(TableColumn)
